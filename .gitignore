@@ -2,7 +2,7 @@
 logs
 *.log
 
-# Deleting temp files
+# Deleting temp files while operating.
 .DS_store
 
 
